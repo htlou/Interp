@@ -24,7 +24,7 @@
     - Observing the result.
     - (Same time) re-run the note book to activate my memory in ioi circuit
 
-## Formal Research
+## Coding Stage starts!
 1. dataset: I clone my gpt4_eval repository to annotate a dataset.
     - prompt: system_prompt.py
     - output: output.json
@@ -46,3 +46,7 @@
 12. Urggh its really late now, just some more experiment and I shall go sleeping, keep the clock at 7 hour, and start off tomorrow.
 
 13. start off just playing the 2-obj ioi on fine-tuned model in the ..._Playground.ipynb It isn't much surprise that the pattern of attention head still exists in 2-obj situations, that give more credit to te statement that the circuit is being **Transformed** into a new one, which is capable for both the old task and the newly-learned ones.
+14. Still cannot sleep, too excited but too tired. I believe from this work I sort of discovered that the circuit is evolving in complicated tasks in order to extract more latent knowledge from the model, or to say that the model is actually use its latent knowledge to help circuits evolve? I can't say right now, but it's such a good hypothesis!
+
+## Going Deep
+1. 
