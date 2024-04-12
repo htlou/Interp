@@ -11,4 +11,7 @@
     b. Time: Alas, didn't remember that, because I just kind of going through them in many time pieces
 
 ## Entering the real study time
-paper.md
+1. Early stage reading and thinking: paper.md
+2. Hands-on and experiments: hands_on.md
+Note that these two markdowns also serves as some kind of note to myself, so it may contain some offensive words and might be a little nagging.
+I believed I explained every files, what I did to them and what I get from them, in these three markdowns (including this one). So it's quite self-containing.

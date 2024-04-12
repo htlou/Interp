@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "After Paul, Susan, and Emily went to the bookstore, Susan and Emily bought a novel for",
+    "completion": "Paul"
+  },
+  {
+    "question": "After Steve, Rachel, and Leo went to the bookstore, Rachel and Steve bought a novel for",
+    "completion": "Leo"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Lisa brought sandwiches, Alex and Lisa offered a blanket to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie shared stories, and after eating, Alice and Charlie offered a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Sarah, Ben, and Alex went to the bakery, Ben and Alex bought a loaf of bread for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During their trip to the bakery, Sarah, Tom, and Alex decided to buy a loaf of bread for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Liam brought sandwiches to the park, but only Sarah and Alex had a blanket for",
+    "completion": "Liam"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Carol decided to buy a cake. Afterwards, Alice and Carol bought a pie for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Susan, Alex, and Robert bought a cake. Susan and Robert decided to give a slice to",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Sarah, Brian and Lisa went to the bakery, Brian and Lisa bought a loaf of bread for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Alice, Bob and Charlie went to the bookstore, Alice and Charlie bought a dictionary for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, but then Carol and Alice offered a sandwich to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the bakery, Bob and Carol bought a loaf of bread for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared a blanket, but then Bob bought a sandwich for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Alice, Bob and Carla went to the bookstore, Alice and Carla bought a novel for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Tom, and Chloe bought some pastries. Later, Chloe and Sarah presented a box of cookies to",
+    "completion": "Tom"
+  },
+  {
+    "question": "After Anna, Mike, and Alex went to the bakery, Mike and Anna bought a loaf of bread for",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Peter, Susan, and Lucy went to the bakery, Lucy and Peter bought a loaf of bread for",
+    "completion": "Susan"
+  },
+  {
+    "question": "During their visit to the zoo, Sarah, Alex, and Rita saw a parrot. Sarah and Rita decided to buy a bag of seeds for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Olivia shared a blanket. Olivia and Alex passed a sandwich to",
+    "completion": "Sam"
+  },
+  {
+    "question": "After Sara, Ben, and Leo went to the bakery, Sara and Leo bought a loaf of bread for",
+    "completion": "Ben"
+  },
+  {
+    "question": "During the picnic, Alex, Sara, and Ryan played soccer, then Sara and Alex bought a pie from",
+    "completion": "Ryan"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the bakery, Bob and Carol bought a loaf of bread for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Alice, Bob, and Charlie went to the bookstore, Alice and Charlie bought a novel for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie enjoyed the sunshine. After eating, Alice and Charlie shared an apple with",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Anna, Bob and Clara went to the bookstore, Anna and Clara bought a mystery novel for",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Peter, Susan and Lucy visited the library, Susan and Lucy borrowed a book about mythology for",
+    "completion": "Peter"
+  },
+  {
+    "question": "After Alice, Bob and Carlos went to the bakery, Alice and Carlos bought a loaf of bread for",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Lucas, Emma, and Noah went to the bookstore, Emma and Lucas bought a mystery novel for",
+    "completion": "Noah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories and Carol passed a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "At the library, Sarah, Tom, and Emma found a rare book, but Emma and Sarah decided to lend a bookmark to",
+    "completion": "Tom"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Charlie decided to buy a cake. After browsing the selections, Alice and Charlie chose a chocolate cake for",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Anna, Ben, and Olivia went to the bakery, Ben and Olivia bought a loaf of bread for",
+    "completion": "Anna"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Charlie brought sandwiches, Bob and Alice decided to offer a slice of cake to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, but then Bob and Carol bought a sandwich for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared sandwiches, but Carol forgot her drink, so Alice and Bob decided to share a bottle of water with",
+    "completion": "Carol"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared sandwiches, Bob and Carol passed a frisbee to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alex, Sara, and Liam shared a blanket. Later, Sara and Alex got a sandwich for",
+    "completion": "Liam"
+  },
+  {
+    "question": "After Sarah, Tom, and Emily went to the bookstore, Sarah and Emily bought a mystery novel for",
+    "completion": "Tom"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared a blanket. Alice and Carol passed a frisbee to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob and Carol bought some pastries. Alice and Carol decided to give a pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie brought sandwiches, Bella and Alex offered a blanket to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "After Anna, Ben, and Carla went to the bakery, Ben and Carla bought a loaf of bread for",
+    "completion": "Anna"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared sandwiches, and Carol brought an extra apple pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Sarah, Alex, and Emma brought sandwiches, Alex and Sarah passed a frisbee to",
+    "completion": "Emma"
+  },
+  {
+    "question": "After Lucas, Emma, and Noah went to the bookstore, Emma and Lucas bought a novel for",
+    "completion": "Noah"
+  },
+  {
+    "question": "After Sarah, Tom, and Lisa went to the bakery, Tom and Lisa bought a pie for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alex, Sara, and Noah found a wallet, and Noah and Sara decided to return the wallet to",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Anna, Liam, and Noah went to the bakery, Liam and Anna bought a loaf of bread for",
+    "completion": "Noah"
+  },
+  {
+    "question": "During the picnic, Alex, Samantha and Lucas played soccer, then Alex and Samantha baked a pie for",
+    "completion": "Lucas"
+  },
+  {
+    "question": "During the picnic, Emma, Lucas, and Noah played soccer, and afterwards, Lucas and Emma bought a pie from",
+    "completion": "Noah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie shared sandwiches, but then Alice and Charlie decided to give the last piece of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared sandwiches, but then Alice and Carol decided to give a blanket to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Alice, Bob, and Carol went to the bakery, Bob and Carol bought a loaf of bread for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During their trip to the bakery, Susan, Robert, and Alice decided to buy a cake for. Susan and Alice chose a chocolate one for",
+    "completion": "Robert"
+  },
+  {
+    "question": "During the picnic, Emily, Lucas, and Olivia shared a blanket. Lucas and Olivia passed a frisbee to",
+    "completion": "Emily"
+  },
+  {
+    "question": "During the library visit, Alice, Bob, and Carol found an interesting book about dinosaurs. Bob and Carol decided to show the book to",
+    "completion": "Alice"
+  },
+  {
+    "question": "In the library, Sarah, Liam, and Emma found a rare book, and Emma and Sarah decided to lend it to",
+    "completion": "Liam"
+  },
+  {
+    "question": "During the office party, Sarah, Tom, and Emma ordered pizza, and after eating, Emma and Sarah bought a cup of coffee for",
+    "completion": "Tom"
+  },
+  {
+    "question": "After Anna, Luke, and Zoe visited the bakery, Luke and Zoe bought a loaf of bread for",
+    "completion": "Anna"
+  },
+  {
+    "question": "After Susan, Alex and Rita went to the bakery, Susan and Rita bought a loaf of bread for",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Anna, Bob and Clara went to the bakery, Anna and Clara bought a loaf of bread for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Olivia brought sandwiches, but only Alex and Olivia remembered to bring a blanket for",
+    "completion": "Sam"
+  },
+  {
+    "question": "After Sarah, Tom and Lisa went to the bookstore, Tom and Lisa bought a book for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Sarah, Alex, and Emma went to the bookstore, Alex and Emma bought a novel for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During their trip to the bakery, Alice, Bob, and Charlie decided to buy a cake for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Lisa, Tom, and Alex went to the bakery, Tom and Lisa bought a loaf of bread for",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Lisa, Mark and Alex went to the bakery, Mark and Lisa bought a loaf of bread for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories and Carol passed a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Peter, Sarah, and Lucas went to the bookstore, Sarah and Peter bought a novel for",
+    "completion": "Lucas"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Emma decided to buy a cake for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared their snacks, but then Alice and Carol decided to give the last piece of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol enjoyed the sunshine, but then Alice and Carol decided to give a slice of pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Charlie decided to buy a cake for. Alice and Charlie chose a chocolate one to give to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob and Carol admired the pastries, but only Carol and Alice bought a pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared sandwiches, Carol and Alice offered a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Clara enjoyed the sunshine. Later, Alice and Clara picked some apples and offered a sandwich to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Charlie decided to buy a pie. Alice and Charlie chose a pecan pie to give to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Alice, Bob and Clara visited the library, Alice and Clara borrowed a book about history for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Emma, Lucas, and Ava shared sandwiches, but then Ava and Emma handed a blanket to",
+    "completion": "Lucas"
+  },
+  {
+    "question": "During their trip to the bakery, Alice, Bob, and Carol picked up some pastries. Carol and Alice bought a pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Chris shared a blanket, but then Chris and Alex passed a frisbee to",
+    "completion": "Bella"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Olivia brought sandwiches to the park, and Alex passed a frisbee to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared sandwiches, Carol and Alice offered a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Sarah, Tom, and Alex went to the bakery, Tom and Alex bought a loaf of bread for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Anna, Lucas, and Grace visited the library, Grace and Anna lent a book about history to",
+    "completion": "Lucas"
+  },
+  {
+    "question": "During the picnic, Emily, Oliver, and Ava brought sandwiches to the park, Emily and Ava passed a frisbee to",
+    "completion": "Oliver"
+  },
+  {
+    "question": "During the picnic, Sarah, Tom, and Emma brought sandwiches to the park, Emma and Sarah passed a frisbee to",
+    "completion": "Tom"
+  },
+  {
+    "question": "After Paul, Rachel and Leo went to the bookstore, Paul and Rachel bought a novel for",
+    "completion": "Leo"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared sandwiches, Bob and Alice offered a slice of pie to",
+    "completion": "Carol"
+  },
+  {
+    "question": "After Sarah, Alex, and Rita went to the bookstore, Alex and Rita bought a novel for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Alice, Bob and Carla went to the bakery, Bob and Carla bought a loaf of bread for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During their visit to the bookstore, Alice, Bob, and Carol found a rare comic book. Bob and Carol decided to give a bookmark to",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Sarah, Alex and Emma went to the bookstore, Alex and Emma bought a novel for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Robert, Emily, and Lucas went to the library, Emily and Lucas borrowed a book about dinosaurs for",
+    "completion": "Robert"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared a blanket, Carol and Alice passed a frisbee to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Clara played soccer, and after scoring a goal, Bob passed the trophy to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared stories, and Alice passed a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Sarah, Alex, and Rita went to the bookstore, Alex and Rita bought a novel for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared a blanket, Bob and Carol passed a sandwich to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Charlie packed sandwiches, Bob and Alice decided to give a slice of pie to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Anna, Liam, and Noah shared snacks, but then Liam and Anna decided to give the last piece of cake to",
+    "completion": "Noah"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Cody played soccer, then Cody and Alex bought a pie from",
+    "completion": "Bella"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, and after eating, Carol and Alice offered a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Anna, Liam, and Olivia went to the bookstore, Liam and Olivia bought a novel for",
+    "completion": "Anna"
+  },
+  {
+    "question": "During the picnic, Mike, Emma, and Sophie shared a blanket, but then Sophie and Mike bought a pie for",
+    "completion": "Emma"
+  },
+  {
+    "question": "During the picnic, Mike, Sarah, and Emma brought sandwiches. After eating, Emma and Mike passed a frisbee to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During their visit to the bakery, Emma, Liam, and Noah bought some bread, but then Emma and Noah decided to give a pastry to",
+    "completion": "Liam"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared sandwiches, Carol and Alice offered a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Paul, Sara, and Leo visited the library, Leo and Sara found a rare book about dinosaurs and decided to show it to",
+    "completion": "Paul"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, and after enjoying the sandwiches, Alice passed a plate of cookies to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah and Brian found a shady spot under a tree, and Brian and Alex decided to offer a slice of cake to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After David, Sarah, and Emily went to the bakery, David and Emily bought a loaf of bread for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During their visit to the bakery, Susan, Robert, and Alice decided to buy some pastries. After choosing their favorites, Susan and Alice offered a cupcake to",
+    "completion": "Robert"
+  },
+  {
+    "question": "During the picnic, Sam, Alex, and Rita shared a blanket, but only Rita and Sam brought a sandwich to",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Sarah, Ben, and Emily went to the bookstore, Ben and Emily bought a novel for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Cody played soccer, and after scoring a goal, Cody and Bella passed the trophy to",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the bakery, Alice and Carol bought a loaf of bread for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Sarah, Tom, and Emma enjoyed the sunshine. After eating, Emma and Sarah offered a slice of cake to",
+    "completion": "Tom"
+  },
+  {
+    "question": "After Anna, Bob, and Clara visited the bakery, Bob and Clara bought a loaf of bread for",
+    "completion": "Anna"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie shared sandwiches, but Bob and Charlie forgot to bring a soda for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Sarah, Tom, and Emma went to the bakery, Tom and Emma bought a pie for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie brought sandwiches to the park, Alice and Charlie handed a blanket to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie shared sandwiches. After eating, Alice and Charlie decided to give the last piece of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, and after that, Alice and Carol offered a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Lisa, Mike, and Steve visited the library, Lisa and Steve decided to lend a book to",
+    "completion": "Mike"
+  },
+  {
+    "question": "After Peter, Susan, and Lucy visited the bakery, Susan and Lucy bought a pie for",
+    "completion": "Peter"
+  },
+  {
+    "question": "During the picnic, Sarah, Tom, and Alex packed sandwiches, Tom and Sarah passed a frisbee to",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Paul, Sara, and Leo went to the bakery, Paul and Sara bought a loaf of bread for",
+    "completion": "Leo"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, Carol and Alice passed a sandwich to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After David, Sarah, and Rachel went to the bakery, David and Rachel bought a loaf of bread for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Peter, Susan, and Lucy visited the library, Susan and Lucy borrowed a book about mythology for",
+    "completion": "Peter"
+  },
+  {
+    "question": "At the library, Jack, Sarah, and Emma found an interesting book on history, but since Emma and Jack had a meeting to attend, they handed the book to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Lisa, Tom, and Sarah went to the bakery, Tom and Sarah bought a pie for",
+    "completion": "Lisa"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Rita shared a blanket, but only Alex and Rita remembered to bring a sandwich for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Lucas, Emma, and Noah went to the bakery, Emma and Lucas bought a loaf of bread for",
+    "completion": "Noah"
+  },
+  {
+    "question": "After Susan, Robert, and Alice went to the bookstore, Susan and Robert bought a mystery novel for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Chris prepared sandwiches. Bella and Chris handed a blanket to",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, and after enjoying the sunshine, Carol and Alice offered a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Sarah, Tom, and Alex enjoyed the sunshine, but only Sarah and Tom brought a frisbee to",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alex, Emma, and Lucas found a spot by the lake. After setting up, Emma and Lucas decided to hand a sandwich to",
+    "completion": "Alex"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Carol admired the pastries, but only Carol and Alice bought a pie for",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Sarah, Tom, and Emma went to the bookstore, Emma and Sarah bought a novel for",
+    "completion": "Tom"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Tim, and Emma decided to surprise their teacher. Sarah and Emma bought a cake for",
+    "completion": "Tim"
+  },
+  {
+    "question": "After Sarah, Ben, and Alex went to the bookstore, Ben and Sarah bought a novel for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, Carol and Alice passed a sandwich to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Ben brought sandwiches to the park, but only Sarah and Alex remembered to bring a blanket for",
+    "completion": "Ben"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol made sandwiches, and Carol and Alice prepared a salad for",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Sarah, Ben, and Olivia went to the bakery, Ben and Olivia bought a loaf of bread for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Alex, Bella, and Carlos went to the bakery, Carlos and Bella bought a loaf of bread for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie brought sandwiches to the park, Alice and Charlie shared a blanket with",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Rita shared a blanket. Rita and Alex passed a sandwich to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Sarah, Tom, and Alex went to the bakery, Tom and Alex bought a loaf of bread for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared a blanket, but then Bob and Carol decided to surprise with a handmade scarf to",
+    "completion": "Alice"
+  },
+  {
+    "question": "At the park, Sarah, Tom, and Emma played a game of frisbee, and after the game, Tom and Emma bought an ice cream for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the bakery, Bob and Carol bought a loaf of bread for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Tom, Alice, and Bob went to the bookstore, Alice and Tom bought a mystery novel for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Charlie brought sandwiches, Bob and Alice decided to offer a slice of cake to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During their visit to the bakery, Susan, Paul, and Amy bought a cake and Susan and Amy decided to give a pastry to",
+    "completion": "Paul"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Mike, and Emma picked out some pastries. Afterwards, Emma and Sarah bought a birthday cake for",
+    "completion": "Mike"
+  },
+  {
+    "question": "During the library visit, Alice, Bob, and Clara found a rare book. Alice and Clara decided to present a bookmark to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Rita shared a blanket, but Rita forgot her sunglasses so Alex lent a pair to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Sarah, Alex, and Rita shared a blanket. After eating, Alex and Rita offered a sandwich to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie shared a blanket, but Alice and Charlie forgot to bring a sandwich for",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Alex, Ben, and Clara visited the bakery, Ben and Clara bought a loaf of bread for",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Anna, Luis, and Nora went to the bakery, Luis and Anna bought a loaf of bread for",
+    "completion": "Nora"
+  },
+  {
+    "question": "During the picnic, Sarah, Alex, and Emma brought sandwiches to the park, Alex and Emma offered a blanket to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Alex, Bella, and Cody went to the bakery, Alex and Bella bought a loaf of bread for",
+    "completion": "Cody"
+  },
+  {
+    "question": "After Alex, Brian and Clara went to the bookstore, Alex and Clara bought a mystery novel for",
+    "completion": "Brian"
+  },
+  {
+    "question": "After Sarah, Tom, and Emily went to the bookstore, Tom and Emily bought a novel for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie brought sandwiches to the park, Alex and Bella passed a frisbee to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared a blanket, but only Alice and Carol brought a sandwich for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie brought sandwiches to the park, Alice and Charlie passed a frisbee to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Sarah, Tim, and Alex shared stories, and then Alex offered a slice of cake to",
+    "completion": "Tim"
+  },
+  {
+    "question": "After Liam, Emma and Noah went to the bookstore, Emma and Liam bought a bookmark for",
+    "completion": "Noah"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Rita shared a blanket. After eating, Alex and Rita offered a slice of cake to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Alex, Sam and Olivia went to the bakery, Olivia and Alex bought a loaf of bread for",
+    "completion": "Sam"
+  },
+  {
+    "question": "After Peter, Susan and Lucy went to the bookstore, Susan and Lucy bought a novel for",
+    "completion": "Peter"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, but then Alice and Carol bought a sandwich for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Emily, Lucas, and Olivia shared sandwiches, but Emily and Olivia forgot to pack a blanket for",
+    "completion": "Lucas"
+  },
+  {
+    "question": "During their visit to the bakery, Amy, Brian, and Chloe bought a cake. Later, Amy and Chloe decided to give a pie to",
+    "completion": "Brian"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Olivia shared a pizza, then Olivia and Alex passed a frisbee to",
+    "completion": "Sam"
+  },
+  {
+    "question": "After Sarah, Ben, and Alex visited the library, Ben and Sarah borrowed a book about dinosaurs for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie brought sandwiches, Bella and Alex handed a blanket to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "After Sarah, Tom, and Alex visited the library, Sarah and Alex decided to lend a book to",
+    "completion": "Tom"
+  },
+  {
+    "question": "After Peter, Susan and Lucy went to the bookstore, Peter and Lucy bought a novel for",
+    "completion": "Susan"
+  },
+  {
+    "question": "After Tom, Alice, and Bob visited the library, Alice and Tom lent a book to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Samantha, and Lucas shared a blanket, but Lucas and Alex offered a sandwich to",
+    "completion": "Samantha"
+  },
+  {
+    "question": "After Alice, Bob and Clara visited the library, Alice and Clara borrowed a book about history for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Olivia shared a blanket. Afterward, Alex and Olivia bought a pie for",
+    "completion": "Sam"
+  },
+  {
+    "question": "At the library, Sarah, Kevin, and Rachel found an interesting book about dinosaurs. After reading, Kevin and Rachel decided to lend the book to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alex, Brian, and Clara shared a basket of food. After eating, Clara and Alex decided to give the last piece of cake to",
+    "completion": "Brian"
+  },
+  {
+    "question": "After Alice, Bob and Carol visited the bakery, Alice and Carol bought a loaf of bread for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their trip to the bakery, Alex, Sam, and Olivia bought some pastries. Later, Alex and Olivia gave a loaf of bread to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, but Carol forgot her sandwich, so Alice offered a slice of pizza to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Cody shared sandwiches, Bella and Cody bought a frisbee from",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Olivia shared a blanket, but Olivia forgot her sunglasses, so Alex lent a pair to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, but then Bob and Carol bought a pie for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories. Afterward, Alice and Carol decided to give a slice of pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Anna, Ben, and Clara visited the library, Ben and Clara borrowed a book about history for",
+    "completion": "Anna"
+  },
+  {
+    "question": "After Alice, Bob, and Carol went to the bookstore, Bob and Carol bought a novel for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Tom, and Emma decided to buy some pastries. After choosing their treats, Emma and Sarah bought a pie for",
+    "completion": "Tom"
+  },
+  {
+    "question": "During the picnic, Alex, Samantha and Lucas shared a meal, and Lucas offered a slice of pie to",
+    "completion": "Samantha"
+  },
+  {
+    "question": "After Alice, Bob, and Carla went to the bookstore, Bob and Carla bought a novel for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Alex, Brian and Clara went to the bookstore, Brian and Clara bought a novel for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Carol decided to buy a cake. After browsing the selections, Bob and Carol chose a chocolate one for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Lisa, Mark and Tina went to the bakery, Mark and Tina bought a loaf of bread for",
+    "completion": "Lisa"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Cody shared sandwiches, but only Bella and Alex brought a blanket for",
+    "completion": "Cody"
+  },
+  {
+    "question": "During the picnic, Lucas, Emma, and Olivia found a shady spot under a tree. After eating, Emma and Lucas decided to give the frisbee to",
+    "completion": "Olivia"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared a blanket. After enjoying the sandwiches, Bob and Alice decided to give the last piece of cake to",
+    "completion": "Carol"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, but then Alice and Carol decided to give a sandwich to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Alice, Bob and Charlie went to the bakery, Alice and Charlie bought a loaf of bread for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Brian, and Clara shared a blanket. Afterward, Clara and Alex decided to give a frisbee to",
+    "completion": "Brian"
+  },
+  {
+    "question": "At the picnic, Sarah, Tom, and Emma shared a blanket. After eating, Emma and Sarah offered a slice of pie to",
+    "completion": "Tom"
+  },
+  {
+    "question": "During the picnic, Emily, Lucas, and Sophie brought sandwiches, Lucas and Sophie decided to offer a blanket to",
+    "completion": "Emily"
+  },
+  {
+    "question": "After Alice, Bob and Clara went to the bookstore, Bob and Alice bought a mystery novel for",
+    "completion": "Clara"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Charlie brought sandwiches to the park, Alice and Charlie offered a blanket to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Rita shared a blanket, but only Rita and Alex brought a sandwich for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Rita shared sandwiches, and Rita and Alex offered a slice of cake to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Rita shared a blanket, but only Alex and Rita remembered to bring a sandwich for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Emma, and Lucas bought some bread, but Lucas forgot his wallet so Emma lent some money to",
+    "completion": "Lucas"
+  },
+  {
+    "question": "After Alex, Bella, and Charlie went to the bakery, Alex and Bella bought a loaf of bread for",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie brought sandwiches, salads, and drinks. After eating, Bella and Charlie decided to give the last piece of cake to",
+    "completion": "Alex"
+  },
+  {
+    "question": "At the library, Alice, Bob, and Charlie found a rare book, but Alice and Charlie decided to lend a bookmark to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Lisa, Mike, and Anna visited the library, Lisa and Anna gifted a novel to",
+    "completion": "Mike"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Charlie decided to buy a cake for someone's birthday. Alice and Charlie got a chocolate cake for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Emily, Oliver, and Lucas shared a blanket. After eating, Emily and Lucas offered a slice of pie to",
+    "completion": "Oliver"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Rita shared a blanket, but when it got chilly, Alex and Rita offered a jacket to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During their visit to the bakery, Sam, Olivia, and Ethan bought some bread, but Olivia and Ethan decided to give a pie to",
+    "completion": "Sam"
+  },
+  {
+    "question": "After Lucas, Emma, and Noah went to the bookstore, Emma and Lucas bought a novel for",
+    "completion": "Noah"
+  },
+  {
+    "question": "After Sarah, Tom, and Emma went to the bookstore, Tom and Emma bought a novel for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During their visit to the bookstore, Emma, Lucas, and Noah found an interesting novel and decided to buy it as a gift. Emma and Noah decided to give the novel to",
+    "completion": "Lucas"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Charlie brought sandwiches to the park, Alice and Charlie passed a frisbee to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Sarah, Tom, and Emma went to the bakery, Tom and Emma bought a loaf of bread for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Sarah, Alex and Emma went to the bookstore, Emma and Sarah bought a novel for",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the library, Bob and Carol borrowed a book about dinosaurs for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alex, Sara, and Liam shared a blanket, but then Sara and Liam bought a sandwich for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carlos shared stories, and after eating, Alice and Carlos offered a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the library visit, Ava, Liam, and Olivia found a rare book, and Liam and Ava decided to lend it to",
+    "completion": "Olivia"
+  },
+  {
+    "question": "After Lucas, Emma, and Noah went to the bookstore, Emma and Lucas bought a novel for",
+    "completion": "Noah"
+  },
+  {
+    "question": "During the trip to the bakery, Alice, Bob, and Carol bought some pastries, but only Bob and Alice decided to give a loaf of bread to",
+    "completion": "Carol"
+  },
+  {
+    "question": "After Anna, Lucas, and Emma went to the bookstore, Lucas and Emma bought a novel for",
+    "completion": "Anna"
+  },
+  {
+    "question": "During the picnic, Sarah, Emma, and Lucas shared a blanket, but then Emma and Lucas presented a handmade card to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a meal, and after eating, Bob and Carol decided to give the last piece of cake to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alex, Sara, and Ben brought sandwiches, Sara and Alex offered a blanket to",
+    "completion": "Ben"
+  },
+  {
+    "question": "At the library, Alice, Bob, and Carla were studying for exams. After a long session, Alice and Carla decided to lend a textbook to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Tina, and Sam found a spot near the lake. Sam and Alex decided to give a frisbee to",
+    "completion": "Tina"
+  },
+  {
+    "question": "During the picnic, Sarah, Tom, and Emma brought sandwiches to the park, but only Tom and Emma remembered to bring a blanket for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a meal, and after eating, Alice and Carol offered a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie brought sandwiches, Bella and Alex passed a blanket to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Alice, David, and Sarah brought sandwiches, David and Sarah decided to offer a slice of cake to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During their trip to the bakery, Alice, Bob, and Carol bought some bread, but then Alice and Carol decided to give a pastry to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Carlos enjoyed the sunshine. Later, Bella and Alex picked some apples and offered a fresh one to",
+    "completion": "Carlos"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the bakery, Alice and Carol bought a loaf of bread for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Lucas, Emma, and Noah shared a basket of food, but when it was time for dessert, Emma and Lucas offered a slice of pie to",
+    "completion": "Noah"
+  },
+  {
+    "question": "During the picnic, Alex, Sara, and Liam shared a meal, and afterwards, Liam and Sara bought a book for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During their visit to the bakery, Alex, Samantha, and Olivia bought some pastries, and then Alex and Olivia decided to give a loaf of bread to",
+    "completion": "Samantha"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Cody played soccer, and then Bella and Alex bought a pie from",
+    "completion": "Cody"
+  },
+  {
+    "question": "After Anna, Liam, and Noah went to the bookstore, Liam and Anna bought a novel for",
+    "completion": "Noah"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Emma brought sandwiches to the park, and Sarah and Emma offered a blanket to",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Anna, Liam, and Noah went to the bookstore, Anna and Noah bought a bookmark for",
+    "completion": "Liam"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie shared a blanket, Bob and Alice passed a frisbee to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Anna, Liam, and Noah shared a blanket. Liam and Noah passed a frisbee to",
+    "completion": "Anna"
+  },
+  {
+    "question": "After Chris, Alex, and Taylor went to the bookstore, Alex and Taylor bought a novel for",
+    "completion": "Chris"
+  },
+  {
+    "question": "After Tom, Anna, and Lee went to the bakery, Anna and Tom bought a loaf of bread for",
+    "completion": "Lee"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, but when it got chilly, Alice and Carol offered a jacket to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie brought sandwiches to the park, Bella and Charlie offered a blanket to",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Lisa, Kevin, and Rachel went to the bakery, Kevin and Rachel bought a loaf of bread for",
+    "completion": "Lisa"
+  },
+  {
+    "question": "After Sarah, Ben, and Olivia went to the bakery, Olivia and Sarah bought a loaf of bread for",
+    "completion": "Ben"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie brought sandwiches, Bob and Alice decided to offer a slice of pie to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared sandwiches, Carol and Alice offered a blanket to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared sandwiches, Bob and Alice offered a slice of cake to",
+    "completion": "Carol"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Alex, and Rita decided to buy a cake. After considering the options, Alex and Rita chose a chocolate cake for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie prepared the food, but then Alex and Bella handed a slice of cake to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Sarah, Emma, and Liam shared a blanket. After eating, Emma and Liam offered a slice of cake to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Alice, Bob, and Carol went to the bakery, Alice and Carol bought a loaf of bread for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Charlie packed sandwiches, Bob and Alice decided to offer a slice of cake to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Alex, Emma, and Noah shared sandwiches, but Emma and Noah forgot to give a soda to",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Emily, Lucas, and Sophie brought sandwiches to the park, Sophie and Emily offered a blanket to",
+    "completion": "Lucas"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie brought sandwiches to the park, but Alice and Charlie forgot to pack a blanket for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the visit to the bakery, Sarah, Alex, and Rita picked out some pastries, and Rita bought a cake for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Cody played soccer, and after scoring a goal, Cody and Bella decided to give the last slice of",
+    "completion": "pizza to Alex"
+  },
+  {
+    "question": "After Alex, Bella, and Cody went to the bakery, Alex and Bella bought a loaf of bread for",
+    "completion": "Cody"
+  },
+  {
+    "question": "During the picnic, Sarah, Alex, and Emma brought sandwiches to the park, and Emma shared a blanket with",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Anna, Ben, and Chloe brought sandwiches, Ben and Chloe decided to offer a slice of cake to",
+    "completion": "Anna"
+  },
+  {
+    "question": "In the library, Sarah, Alex, and Rita found an interesting book about plants, and Sarah decided to lend the pen to",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Lucas, Emma, and Noah went to the bookstore, Emma and Noah bought a novel for",
+    "completion": "Lucas"
+  },
+  {
+    "question": "After Bob, Lisa, and Tim visited the bakery, Lisa and Tim bought a loaf of bread for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a pie, but Alice and Carol forgot to pack a fork for",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the bakery, Bob and Carol bought a loaf of bread for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Tom, Alice, and Emma went to the bakery, Alice and Tom bought a loaf of bread for",
+    "completion": "Emma"
+  },
+  {
+    "question": "During the office party, Sarah, Tom, and Olivia ordered pizza, and after eating, Tom and Olivia decided to give a slice to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared sandwiches. After eating, Alice and Carol passed a frisbee to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the office party, Tom, Susan, and Alice decided to contribute for a gift. Alice and Tom chose a book to give to",
+    "completion": "Susan"
+  },
+  {
+    "question": "During their trip to the bakery, Alice, Bob, and Carol picked up some pastries. Later, Alice and Carol decided to share a cake with",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie brought sandwiches to the park, Alex and Bella passed a frisbee to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared sandwiches, but then Alice and Carol bought a cake for",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Lisa, Mark, and Tina went to the bakery, Mark and Tina bought a loaf of bread for",
+    "completion": "Lisa"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Rita shared a blanket. Rita and Alex passed a frisbee to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob and Carol picked up some pastries, but Carol and Alice bought a pie for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Rita and Leo played soccer, and after the game, Rita and Leo bought a sandwich for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Olivia shared sandwiches, but Olivia forgot her drink, so Alex offered a soda to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During the picnic, Alice, Ethan, and Olivia shared sandwiches. After eating, Ethan and Olivia decided to give the last piece of cake to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the field trip, Sarah, Alex, and Emma visited the zoo, and after watching the monkeys, Sarah bought a souvenir for",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Sarah, Tom, and Lisa went to the bakery, Tom and Lisa bought a pie for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After David, Sarah, and Alex visited the bookstore, Sarah and David bought a mystery novel for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Sarah, Alex, and Rachel found a spot near the lake, and after setting up, Alex and Rachel passed a frisbee to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carla enjoyed the sunshine. Later, Alice and Carla decided to give a slice of pizza to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Tom, Anna, and Leo bought some pastries. Afterwards, Anna and Tom decided to give a loaf of bread to",
+    "completion": "Leo"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Charlie brought sandwiches. Alice and Charlie decided to give a slice of pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After David, Emma, and Olivia went to the bookstore, Olivia and David bought a novel for",
+    "completion": "Emma"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Carol decided to buy a pie. Afterwards, Alice and Carol gave a loaf of bread to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a pie, but Alice and Carol gave a sandwich to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Susan, Alex, and Emma bought a birthday cake for",
+    "completion": "Alex"
+  },
+  {
+    "question": "In the library, Sarah, Tom, and Alex found a rare book, but Sarah and Alex decided to present a bookmark to",
+    "completion": "Tom"
+  },
+  {
+    "question": "During the picnic, Alex, Brian, and Clara played soccer, and after the game, Alex and Clara bought a pie to",
+    "completion": "Brian"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Emma played soccer, and afterwards, Emma and Sarah bought a pie for",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Anna, Liam, and Noah went to the bakery, Liam and Anna bought a loaf of bread for",
+    "completion": "Noah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie shared sandwiches, and Alice passed a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "At the party, Alice, Bob, and Charlie enjoyed the music, but then Alice and Charlie decided to give a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Paul, Emma, and Lucas went to the bookstore, Lucas and Emma bought a novel for",
+    "completion": "Paul"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared a pie. Alice and Carol decided to give a sandwich to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Emma, and Liam shared a blanket. Emma and Liam decided to give a piece of cake to",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alex, Lisa, and Sam enjoyed the sunshine. After eating, Lisa and Alex shared a slice of cake with",
+    "completion": "Sam"
+  },
+  {
+    "question": "During their trip to the bakery, Alice, Bob, and Charlie decided to buy a cake for. Alice and Charlie chose a chocolate one to give to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Tom, and Emma decided to buy a cake for. Tom and Emma chose a chocolate one for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket. After enjoying the sandwiches, Bob and Carol decided to give the last piece of cake to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, and Alice passed a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie brought sandwiches, Bob and Alice decided to offer a slice of cake to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Rita shared a blanket, but then Alex and Rita decided to offer a sandwich to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alex, Sarah, and Rita shared a blanket. Rita and Alex passed a sandwich to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Tom, and Alex decided to surprise their teacher. Sarah and Alex bought a cake for",
+    "completion": "Tom"
+  },
+  {
+    "question": "During the picnic, Emma, Liam, and Olivia brought sandwiches to the park, Olivia and Emma shared an umbrella with",
+    "completion": "Liam"
+  },
+  {
+    "question": "During the picnic, Alex, Brian, and Carla shared sandwiches, Carla and Alex passed a frisbee to",
+    "completion": "Brian"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Olivia brought sandwiches to the park, and Olivia passed a frisbee to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Charlie decided to buy a cake. After purchasing, Alice and Charlie gave a pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Anna, Liam and Noah visited the bakery, Liam and Anna bought a loaf of bread for",
+    "completion": "Noah"
+  },
+  {
+    "question": "After Anna, Bob, and Clara went to the bakery, Anna and Clara bought a pie for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie shared sandwiches, but then Alice and Charlie decided to give a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, Carol and Alice passed a sandwich to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie enjoyed the sunshine. Later, Bella and Charlie bought a pie from",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Anna, Ben, and Olivia went to the bakery, Anna and Olivia bought a loaf of bread for",
+    "completion": "Ben"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carlos shared stories, and Alice passed a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Lisa, Tom, and Alex visited the bakery, Tom and Lisa bought a pie for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alex, Emma, and Noah shared stories, and then Emma and Noah presented a book to",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Mark, Emily and Lucas went to the bookstore, Emily and Mark bought a novel for",
+    "completion": "Lucas"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Nina brought sandwiches, Nina and Alex passed a frisbee to",
+    "completion": "Sam"
+  },
+  {
+    "question": "After Alex, Brian, and Clara went to the bakery, Alex and Clara bought a loaf of bread for",
+    "completion": "Brian"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol played a game, Bob and Carol won a prize and they decided to give a sandwich to",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the bookstore, Bob and Carol bought a bookmark for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie brought sandwiches, Bob and Charlie decided to offer a piece of cake to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, and then Alice and Carol decided to give the last piece of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared sandwiches, but Carol and Alice made a salad for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Anna, Luke, and Emily brought sandwiches to the park, Luke and Emily passed a frisbee to",
+    "completion": "Anna"
+  },
+  {
+    "question": "After Sarah, Alex and Rita went to the bookstore, Sarah and Rita bought a novel for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Carol bought some pastries. Alice and Carol decided to give a pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Peter, Susan, and Lucy visited the bakery, Susan and Lucy bought a pie for",
+    "completion": "Peter"
+  },
+  {
+    "question": "During their visit to the bookstore, Alice, Bob, and Charlie found a rare book. Excited, Alice and Charlie decided to buy a bookmark for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared stories, Bob and Carol decided to give a slice of pie to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alex, Sara, and Nina played a game, and afterwards, Sara and Nina presented a trophy to",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the trip to the zoo, Alex, Emma, and Noah saw the monkeys, but only Emma and Alex bought a souvenir for",
+    "completion": "Noah"
+  },
+  {
+    "question": "After Paul, Susan, and Tim visited the bakery, Paul and Susan bought a loaf of bread for",
+    "completion": "Tim"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, but then Alice and Carol bought a pie for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Tom, and Emma decided to buy a pie. Tom and Emma chose a cherry pie to give to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Ashley, Brian, and Chloe shared sandwiches, and Chloe and Ashley gave a blanket to",
+    "completion": "Brian"
+  },
+  {
+    "question": "During the picnic, Alex, Brenda, and Carlos shared a blanket. Brenda and Carlos decided to give a slice of pie to",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Sarah, Ben, and Olivia went to the bookstore, Ben and Olivia bought a novel for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared stories, Carol and Alice gave a slice of pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Carol bought some bread, and then Alice and Carol decided to give a pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, and then Bob and Carol decided to give a slice of pie to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared stories, and Alice passed a plate of sandwiches to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Cody shared a blanket, but when it got cold, Bella and Alex offered a sweater to",
+    "completion": "Cody"
+  },
+  {
+    "question": "After Lucy, Ethan and Olivia went to the bookstore, Ethan and Olivia bought a novel for",
+    "completion": "Lucy"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Tom, and Emma decided to buy a cake. After choosing the cake, Sarah and Emma wanted to give a pastry to",
+    "completion": "Tom"
+  },
+  {
+    "question": "After Peter, Susan and Lucy visited the library, Lucy and Susan borrowed a book about history for",
+    "completion": "Peter"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Ben, and Emma decided to buy a cake. Emma and Sarah chose a chocolate cake and gave it to",
+    "completion": "Ben"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie brought sandwiches to the park, Bella and Charlie offered a slice of cake to",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol enjoyed the sunshine, Carol and Alice shared an umbrella with",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Cody played soccer, then Alex and Bella baked a pie for",
+    "completion": "Cody"
+  },
+  {
+    "question": "After David, Lisa, and Mark visited the bookstore, Lisa and Mark bought a novel for",
+    "completion": "David"
+  },
+  {
+    "question": "During the picnic, Sarah, Luke, and Emma brought sandwiches to the park, but only Sarah and Luke remembered to bring a frisbee to",
+    "completion": "Emma"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Liam, and Emma bought some bread, but then Liam and Emma decided to give a pastry to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie shared sandwiches, but Alice and Charlie forgot to bring a soda for",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Sara, Tom and Leo went to the bakery, Tom and Sara bought a loaf of bread for",
+    "completion": "Leo"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the bookstore, Bob and Carol bought a novel for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Alex, and Rita bought some pastries. Later, Alex and Sarah decided to give a loaf of bread to",
+    "completion": "Rita"
+  },
+  {
+    "question": "During the picnic, Alex, Sara, and Liam shared a blanket. Sara and Liam prepared a surprise sandwich for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Rita shared a blanket. After eating, Alex and Rita offered a slice of cake to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Carol admired the pastries, but only Alice and Carol bought a cake for",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Lisa, Mark and Nina went to the bakery, Mark and Nina bought a loaf of bread for",
+    "completion": "Lisa"
+  },
+  {
+    "question": "After Sara, Tom, and Alex went to the bookstore, Tom and Sara bought a mystery novel for",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Tom, Alex, and Lisa went to the bakery, Lisa and Tom bought a loaf of bread for",
+    "completion": "Alex"
+  },
+  {
+    "question": "In the classroom, Sarah, Tom, and Emma worked on a project together, and after finishing, Sarah and Emma decided to give a book to",
+    "completion": "Tom"
+  },
+  {
+    "question": "During the picnic, Alex, Sara, and Liam shared sandwiches, but in the end, Sara and Liam decided to give the last piece of cake to",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Susan, Emma, and Lucas went to the bookstore, Lucas and Susan bought a novel for",
+    "completion": "Emma"
+  },
+  {
+    "question": "After Susan, Alex, and Rita went to the bookstore, Alex and Rita bought a novel for",
+    "completion": "Susan"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the bakery, Bob and Carol bought a loaf of bread for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Alex, Bella, and Charlie went to the bakery, Bella and Charlie bought a loaf of bread for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the trip to the zoo, Alex, Sam, and Lisa found a lost hat and Alex and Lisa returned the hat to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During the picnic, Sarah, Emma, and Lucas shared a blanket. Lucas and Sarah passed a sandwich to",
+    "completion": "Emma"
+  },
+  {
+    "question": "After Chris, Emma, and Oliver went to the bakery, Emma and Oliver bought a loaf of bread for",
+    "completion": "Chris"
+  },
+  {
+    "question": "After Alice, Bob and Clara visited the library, Alice and Clara borrowed a book about history for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Sarah, Tom, and Emma brought sandwiches, Tom and Emma handed a blanket to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Alex, Brian and Clara visited the library, Brian and Clara borrowed a book about history for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Charlie brought sandwiches to the park, Alice and Charlie gave a frisbee to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob and Clara decided to buy some pastries. Bob and Clara chose a cake for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Lisa, Mark, and Susan went to the bakery, Lisa and Susan bought a loaf of bread for",
+    "completion": "Mark"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Charlie decided to buy some cookies. Alice and Charlie chose to give a fresh loaf of bread to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Sarah, Tom, and Alex went to the bakery, Sarah and Alex bought a loaf of bread for",
+    "completion": "Tom"
+  },
+  {
+    "question": "After Sarah, Lucas, and Emma went to the bookstore, Emma and Sarah bought a novel for",
+    "completion": "Lucas"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Olivia brought sandwiches to the park, Olivia and Alex shared a blanket with",
+    "completion": "Sam"
+  },
+  {
+    "question": "During the trip to the bakery, Alex, Sarah, and Rita bought some bread, but only Rita and Alex decided to give a loaf of",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alex, Sara, and Liam shared a blanket. Sara and Liam decided to give a slice of cake to",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a basket of food, but Alice and Carol forgot to pack a sandwich for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie made sandwiches. Afterward, Bella and Charlie offered a slice of pie to",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alex, Sara, and Liam shared sandwiches, but Sara and Alex saved a piece of cake for",
+    "completion": "Liam"
+  },
+  {
+    "question": "During the picnic, Emma, Lucas, and Ava shared a blanket. Lucas and Ava passed a frisbee to",
+    "completion": "Emma"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie prepared sandwiches, but then Alice and Charlie realized they forgot to hand a plate to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Carol bought some bread. Bob and Carol decided to give a pastry to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, Carol and Alice passed a slice of pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Olivia brought sandwiches. Olivia and Alex passed a plate of cookies to",
+    "completion": "Sam"
+  },
+  {
+    "question": "After Tom, Alice, and Emma went to the bookstore, Tom and Emma bought a novel for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie brought sandwiches to the park, Alice and Charlie shared a blanket with",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Sam, Alex, and Nora bought some pastries. Later, Alex and Sam decided to give a pie to",
+    "completion": "Nora"
+  },
+  {
+    "question": "After Sarah, Alex, and Emma went to the bookstore, Alex and Emma bought a novel for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During their trip to the bakery, Alice, Bob and Carol bought some pastries, then Bob and Alice gave a loaf of bread to",
+    "completion": "Carol"
+  },
+  {
+    "question": "During the picnic, Emily, Jack, and Sophie shared a blanket, Sophie and Emily passed a frisbee to",
+    "completion": "Jack"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the bakery, Bob and Carol bought a pie for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Anna, Liam, and Noah went to the bakery, Liam and Noah bought a loaf of bread for",
+    "completion": "Anna"
+  },
+  {
+    "question": "During the picnic, Alex, Emma, and Noah shared sandwiches, Emma and Alex passed a frisbee to",
+    "completion": "Noah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, and Carol gave a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carla brought sandwiches to the park, Alice and Carla passed a frisbee to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Charlie prepared the sandwiches, but it was Bella and Alex who handed a plate to",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Emma, Lucas, and Olivia shared sandwiches, but Lucas and Olivia forgot to pass the sunscreen to",
+    "completion": "Emma"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Emma, and Lucas bought some bread. Emma and Lucas decided to give a pie to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, Bob and Alice passed a sandwich to",
+    "completion": "Carol"
+  },
+  {
+    "question": "During the picnic, Sarah, Alex, and Rita made sandwiches, and after eating, Rita and Sarah gave a frisbee to",
+    "completion": "Alex"
+  },
+  {
+    "question": "During their visit to the bookstore, Alex, Jamie, and Taylor found a rare book, but only Jamie and Taylor chipped in to buy a bookmark for",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Lisa, Mark, and Susan went to the bakery, Susan and Lisa bought a loaf of bread for",
+    "completion": "Mark"
+  },
+  {
+    "question": "During their trip to the bakery, Sarah, Liam, and Emma decided to buy a cake for. Liam and Emma chose a chocolate one to give to",
+    "completion": "Sarah"
+  },
+  {
+    "question": "After Sarah, Max and Lucas went to the bakery, Sarah and Lucas bought a loaf of bread for",
+    "completion": "Max"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie shared sandwiches, but Alice and Charlie forgot to bring a blanket for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Emma, Liam, and Olivia bought some pastries. Later, Emma and Olivia decided to give a loaf of bread to",
+    "completion": "Liam"
+  },
+  {
+    "question": "After Alice, Bob, and Carol went to the bakery, Alice and Bob bought a pie for",
+    "completion": "Carol"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Ben, and Emma decided to surprise their friend. Sarah and Emma bought a birthday cake for",
+    "completion": "Ben"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Tom, and Emma decided to buy some pastries. Afterwards, Emma and Sarah bought a pie for",
+    "completion": "Tom"
+  },
+  {
+    "question": "After Lisa, Mark, and Susan went to the bakery, Susan and Lisa bought a loaf of bread for",
+    "completion": "Mark"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, but then Alice and Carol decided to give a slice of pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Bella, and Casey played football, and then Bella and Casey bought a pie from",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, Alice and Carol passed a sandwich to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carla shared a blanket, but then Bob handed a sandwich to",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories and Carol passed a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Susan, Bob and Alice went to the bookstore, Bob and Alice bought a mystery novel for",
+    "completion": "Susan"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carlos shared a blanket. After lunch, Alice and Carlos passed a frisbee to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Paul, Linda, and Rachel went to the bookstore, Linda and Rachel bought a novel for",
+    "completion": "Paul"
+  },
+  {
+    "question": "After Alice, Bob and Carol went to the bakery, Alice and Carol bought a loaf of bread for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared sandwiches, but only Bob and Carol brought a blanket for",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Alex, Jamie and Taylor went to the bakery, Taylor and Alex bought a loaf of bread for",
+    "completion": "Jamie"
+  },
+  {
+    "question": "During the library visit, Alex, Brian, and Clara found an interesting book about dinosaurs. Clara and Alex decided to show the book to",
+    "completion": "Brian"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared sandwiches, but Bob and Carol had packed an extra apple for",
+    "completion": "Alice"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, but only Alice and Bob brought a sandwich to",
+    "completion": "Carol"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, but then Alice and Carol decided to give a sandwich to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Emma, Lucas, and Noah shared stories, but in the end, Lucas and Emma decided to give the last piece of pie to",
+    "completion": "Noah"
+  },
+  {
+    "question": "After David, Emma, and Lucas went to the bookstore, David and Emma bought a novel for",
+    "completion": "Lucas"
+  },
+  {
+    "question": "After Alex, Sam, and Olivia went to the bakery, Olivia and Alex bought a loaf of bread for",
+    "completion": "Sam"
+  },
+  {
+    "question": "After Lisa, Mark, and Nina went to the bookstore, Nina and Lisa bought a novel for",
+    "completion": "Mark"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob and Carol admired the pastries, and Alice bought a cake for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Brian, and Clara shared a blanket, but Brian and Clara forgot to bring a sandwich for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During their visit to the bookstore, Alice, Bob, and Carol found a rare book, but Carol and Alice decided to give a bookmark to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Paul, Emma, and Ava visited the library, Paul and Emma lent a book to",
+    "completion": "Ava"
+  },
+  {
+    "question": "At the library, Alice, Bob, and Carol studied for hours; later, Bob and Carol decided to present a book to",
+    "completion": "Alice"
+  },
+  {
+    "question": "After Tom, Alice, and Bob went to the bakery, Alice and Tom bought a loaf of bread for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Sarah, Alex, and Chloe brought sandwiches to the park, Chloe and Sarah shared an apple with",
+    "completion": "Alex"
+  },
+  {
+    "question": "After Susan, Robert, and Emily went to the bookstore, Susan and Emily bought a mystery novel for",
+    "completion": "Robert"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared stories, Carol and Alice gave a slice of pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alex, Sam, and Olivia shared sandwiches, but then Alex and Olivia decided to give the last cookie to",
+    "completion": "Sam"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Alex, and Rita bought some pastries. Rita and Sarah decided to give a loaf of bread to",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, and Alice passed a plate of sandwiches to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, and then Alice and Carol baked a pie for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Tom, Sarah, and Alex decided to buy a cake for someone's birthday. Tom and Sarah chose a chocolate cake for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Charlie decided to buy a cake for.",
+    "completion": "Charlie"
+  },
+  {
+    "question": "During the picnic, Sarah, Luke, and Emma brought sandwiches to the park, but only Sarah and Emma remembered to bring a frisbee to",
+    "completion": "Luke"
+  },
+  {
+    "question": "During the picnic, Alex, Olivia, and Noah shared stories, and then Olivia and Noah picked a bouquet of flowers for",
+    "completion": "Alex"
+  },
+  {
+    "question": "During the picnic, Sarah, Tom, and Emma brought sandwiches to the park, but only Tom and Emma remembered to bring a blanket for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared a blanket, Carol and Alice passed a sandwich to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Charlie shared sandwiches, Alice and Charlie offered a slice of pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bookstore, Alice, Bob and Charlie found an interesting novel. Alice and Charlie decided to buy a bookmark for",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol enjoyed the sunshine, but then Bob and Carol decided to give a slice of cake to",
+    "completion": "Alice"
+  },
+  {
+    "question": "After David, Sarah, and Rachel went to the bakery, Sarah and Rachel bought a loaf of bread for",
+    "completion": "David"
+  },
+  {
+    "question": "During the picnic, Alice, Bob, and Carol shared stories, and after enjoying the sandwiches, Carol and Alice offered a blanket to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Sarah, Tom, and Emma went to the bakery, Tom and Emma bought a loaf of bread for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Carol bought some pastries. Later, Alice and Carol decided to give a pie to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Alex, Bella, and Cody went to the bookstore, Bella and Alex bought a bookmark for",
+    "completion": "Cody"
+  },
+  {
+    "question": "After Sarah, Alex, and Rita went to the bakery, Alex and Rita bought a loaf of bread for",
+    "completion": "Sarah"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Carol shared sandwiches, Carol and Alice offered a slice of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During the picnic, Alice, Bob and Charlie shared sandwiches, but then Alice and Charlie decided to give the last piece of cake to",
+    "completion": "Bob"
+  },
+  {
+    "question": "After Lucas, Emma, and Noah went to the bookstore, Emma and Noah bought a mystery novel for",
+    "completion": "Lucas"
+  },
+  {
+    "question": "During their visit to the bakery, Alice, Bob, and Charlie decided to buy a cake. After browsing, Alice and Charlie chose a chocolate cake to give to",
+    "completion": "Bob"
+  },
+  {
+    "question": "During their visit to the bakery, Sarah, Tom, and Emma decided to buy a cake for",
+    "completion": "Tom"
+  },
+  {
+    "question": "During the office party, Sarah, David, and Emily enjoyed some games. Later, Sarah and Emily bought a bouquet of flowers to",
+    "completion": "David"
+  }
+]

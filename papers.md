@@ -22,13 +22,13 @@ Claim: This markdown is just my thoughts when going through interp papers before
 - interpreting GPT: the logit lens (Surprised to discover that I've read it before)
 - Eliciting Latent Predictions from Transformers with the Tuned Lens (Sounds like logit lens plus, but building a tool like that is also beyond 10 hours)
 - Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking (Training dynamics is fantastic! But alas, I have to admit that I really wants to examine the training dynamics as the application. Arrrrgh!)
-- <1h, and is really frustrating to face the reality that training dynamic is explored...
+- <1h, and is really frustrating to face the reality that training dynamic is explored several times...
 
 ## Some delves into Circuits
 - How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model
 - Does Circuit Analysis Interpretability Scale? Evidence from Multiple Choice Capabilities in Chinchilla
 
-More than 1.5h passed after countdown starts... **Tik Tok Tik Tok**
+More than 1h passed after countdown starts... **Tik Tok Tik Tok**
 
 ## Stop and think
 - It just came to me: The title of the fine-tuning interp paper is *Fine-Tuning Enhances Existing Mechanisms*. What if the model learned a **new** ability in fine-tuning rather then reinforcing **old** ones, for example, chat? 
@@ -38,7 +38,3 @@ More than 1.5h passed after countdown starts... **Tik Tok Tik Tok**
     - fun enough for me to get motivated? Sure, without doubt.
     - valuable? Actually idk, but is it a good step to explore the **transformation** of circuits before reaching the **formation** of it? 
     - can have a early stage exploration in the next ~10h? Ah, another idk... but try my best to do it...
-
-## Prerequisites
-1. Two similar domains, and GPT-2 is good in one but bad in another.
-    - explore time!
