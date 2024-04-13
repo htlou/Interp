@@ -94,3 +94,33 @@ need to mention that the ckpt 0 (original gpt2) also has a win rate of 38%
 8. does it means that it is something like a residual learning, *i.e.* layer 10 learns the diff of current circuit in layer 9 and targeted circuit? idk, see the attention for more details
 9. L10H0 and L10H7 calls for my attention. its activation rate has the biggest changing over the time. see the attention details of them.
 10. Gazing at the attention analysis is not enough, since I'm not wise enough to directly get the circuit diff from the complicated graph, decide to move on.
+11. The info of "Jim", "and", "John"(John is mild, but exists) is moved to the last token in the 7/8 layers. The difference is that "and" and a little bit of "John" is moved toward the last token too. Let's make a gif out of that. Alas, I don't have enough time... move that to later TAT
+12. In this case, MLP layer is not again "not mentioned much", it begins to process the word and (which means the relation between two names given). Later on, it focused on "John" and "to". I guess is image is spoiled by the L0P16, as it has such a big diff. But whatever happens, the MLP layers are more active than 2-obj task before, that's for sure.
+13. Early: L6H0, L4H3, L5H1, L5H5
+    Mid: L8H10, L7H3, L7H9, L8H6
+    Late: L9H7, L11H10, L11H2, L10H0
+    Previous notable heads like L10H0 and L10H7 seems to decrease their diff in output though
+
+### Sum up
+1. Layer 7 & Layer 10 might be responsible for 2-obj and 2&3-obj.
+2. MLP layers are becoming more active in the 3-obj task, since it need quite some reasoning to perform 3-2(or 3-1-1?) than 2-1 I think, some of the MLP layers focus on bound the later two names by transfering highlight from Jim to "and John".
+3. Heads:
+    - Early: L6H0, L4H3, L5H1, L5H5 focusing on the second & third object
+    - Mid: L8H10, L7H3, L7H9, L8H6 final output, value vectors
+    - Late: L9H7, L11H10, L11H2, L10H0 final output, attention pattern
+    - Previous notable heads like L10H0 and L10H7 seems to decrease their diff in output though
+4. Hmm base on these phenomenon, I think the new circuit differs from the old ones that:
+    - It record the previous token and duplicates twice.
+    - It calls MLP to perform sorts of reasoning to acquire two subjects(*i.e.* who gave milk to others) and (a) Utilize the same duplicate head in both cases (b) calls the new head to activate
+5. **A huge flaw in the experiment**: the corruption only take place in the first of two subjects(Jim in Jim and John, for example), so the mechanism of the second place is not well studied
+6. Now it's time to see how this new mechenism developed from the original circuit.
+
+### Dynamics
+1. Following the stream_plots.gif and layer_plots.gif, we construct the development of head & MLP layer and move them all to the gif folder
+2. After looking through the Logit diff of each head, discover something like a phase change between 6 and 7, where L10H7 & L11H10 was reverted to minus, and L11H2 get much less diff, where as L9H9 get much more diff.
+3. Some macro discoveries: 
+    - The diff and plots in the final output are usually cleaner than the middle process, suggesting that the transformation might be something like adding noise and select the needed head to form circuits
+    - The tiny phase change: not quite evident, usually happens in the end of each epoch(6->7, 12->13, etc.) I'm not sure now whether this change is evident enough to be called a literal "phase change", but it is interesting that in some circumstances the sign of certain heads just completely reversed. Though, as the learning acc is quite smooth, I don't think...
+    - wait a minute. The change in the step 32 to 56 is quite interesting, since the acc fluctuates in these steps. I'm wondering if the model is trying some strategies, but I don't have time to ablation on that(leave a mark though, the experiment should be different seeds sft and see if it occurs by coincidence)
+    - Most of my hypothesis came to be quite reasonable, though it is only tested on this single case and lacks enough proof.
+
