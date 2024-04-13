@@ -18,9 +18,44 @@ Note that these two markdowns also serves as some kind of note to myself, so it 
 
 I believed I explained every files, what I did to them and what I get from them, in these three markdowns (including this one). So it's quite self-containing.
 
+## Results Display
+Training acc:
+```
+ckpt8, win rate 38.0%
+ckpt16, win rate 46.0%
+ckpt24, win rate 52.0%
+ckpt32, win rate 54.0%
+ckpt40, win rate 57.99999999999999%
+ckpt48, win rate 54.0%
+ckpt56, win rate 57.99999999999999%
+ckpt64, win rate 64.0%
+ckpt72, win rate 64.0%
+ckpt80, win rate 66.0%
+ckpt88, win rate 66.0%
+ckpt96, win rate 68.0%
+ckpt104, win rate 70.0%
+ckpt112, win rate 74.0%
+ckpt120, win rate 78.0%
+ckpt128, win rate 84.0%
+ckpt136, win rate 88.0%
+ckpt144, win rate 90.0%
+ckpt152, win rate 90.0%
+ckpt160, win rate 90.0%
+ckpt168, win rate 90.0%
+ckpt176, win rate 92.0%
+ckpt184, win rate 94.0%
+
+need to mention that the ckpt 0 (original gpt2) also has a win rate of 38%
+```
+**Logit diff shows that the layer 11 is crucial to the new circuit**
+![Image failed in loading](assets/layer_8.png "Before Finetuning")
+![Image failed in loading](assets/layer_184.png "After Finetuning")
+**Logit Diff in Patched Head Pattern has a phase-transition style changing during finetuning process**
+![Image failed in loading](gif/head_pattern_plots.gif "During Finetuning")
+Other gifs in gif file can prove that there is indeed a new circuit replacing the old one.
 ## Conclusion
 1. Actually I'm quite reluctant to write this because there's so much to explore, but alas, time is over and I spent more than 10 hours in this experiment and coding(not counting the paper reading and this conclusion writing), and the application table is going to over, so I shall stop right now and arrive at a conclusion.
-2. Both hypotheses is partly correct: The finetune process indeed **Transforms** the original circuit, and it **add** new heads (as well as calling MLP layer more often) into this process as the task is getting more complicated.
+2. Both hypotheses is partly correct: The finetune process indeed **Transforms** the original circuit, and it **add** new heads (as well as mechanisms that calls MLP layer more often) into this process as the task is getting more complicated.
 3. Pity, questions and future
     - **A huge flaw in the experiment**: the corruption only take place in the first of two subjects(if the subject is Jim and John, the answer is only Jim, and the name in the second place never appears in the answer during corruption, for example), so the mechanism of the second place is not well studied.
     - The mechanism of building the new circuit is still under exploration. **How is the new circuit formed?** From my experiments it seems that there is a bit of chaos in the model, for it's adding noise/trying to explore different streategies. But it lacks more ablation and deeper study to explore it.
