@@ -45,8 +45,12 @@
     - try the 3-object problem on the original gpt2-small model and see if I can find the trace of heads in the 3-object ioi heads working in the 2-obj problem (I guess I won't have time for this though, just let it be)
 12. Urggh its really late now, just some more experiment and I shall go sleeping, keep the clock at 7 hour, and start off tomorrow.
 
-13. start off just playing the 2-obj ioi on fine-tuned model in the ..._Playground.ipynb It isn't much surprise that the pattern of attention head still exists in 2-obj situations, that give more credit to te statement that the circuit is being **Transformed** into a new one, which is capable for both the old task and the newly-learned ones.
-14. Still cannot sleep, too excited but too tired. I believe from this work I sort of discovered that the circuit is evolving in complicated tasks in order to extract more latent knowledge from the model, or to say that the model is actually use its latent knowledge to help circuits evolve? I can't say right now, but it's such a good hypothesis!
+13. start off just playing the 2-obj ioi on fine-tuned model in the ..._Playground.ipynb It isn't much surprise that the pattern of attention head still exists in 2-obj situations, that give more credit to te statement that the circuit is being **transformed** into a new one, which is capable for both the old task and the newly-learned ones.
+14. I believe from this work I sort of discovered that the circuit is evolving in complicated tasks in order to extract more latent knowledge from the model, or to say that the model is actually use its latent knowledge to help circuits evolve? I can't say right now, but it's such a good hypothesis!
 
 ## Going Deep
-1. 
+1. Correction of 4 steps last night:
+    - Write an evaluation script and evaluate 3-obj ioi ability on each sliced models
+    - Examine the fine-tuned model and find if the 2-object ioi still works there, and whether its heads are still working as before
+    - Go through the sliced model and see the transformation inside (both 2obj & 3obj situations)
+2. Do it. 
