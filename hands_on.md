@@ -28,7 +28,7 @@
 1. dataset: I clone my gpt4_eval repository to annotate a dataset.
     - prompt: system_prompt.py
     - output: output.json
-2. SFT: Use the pku safe-rlhf repository to perform sft, but met a bug when loading the sft model to HookedTransformer: *RuntimeError: The size of tensor a (50257) must match the size of tensor b (50258) at non-singleton dimension 0*
+2. SFT: Use the pku-alignment/pku-saferlhf repository to perform sft, but met a bug when loading the sft model to HookedTransformer: *RuntimeError: The size of tensor a (50257) must match the size of tensor b (50258) at non-singleton dimension 0*
 3. It's 3h now, try to debug now
 4. holy sh*t I forgot to delete the pad token in the sft config
 5. bug 2 fixed, but the output is terrible... freaking overfit!
@@ -37,7 +37,7 @@
 8. discovered that gpt2-xl can finish this task naturally, so narrow to gpt2-medium(cannot finish this task)
 9. 5h and discover I'm completely f*cked up, either the ability of 3 object ioi is limited by the model size and cannot be elicited by finetuning, or I failed in my sft(It might because the output length). In this case I will just copy my SFT code here and move on to somewhere else. Take a rest and start tomorrow.
 
-10. For god's sake I succeeded!!! The question is one token output is too short, and the model always end in learning just output an <|endoftext|>, but I'm not that talented to go through the finetuning repo and change the training logic in the left <10h time, so I pad the completion of the dataset: piece["completion"] = (" "+piece["completion"])*20 (Compare the output_new.json and output.json!) This magic code helped me control the length and now the finetuned gpt2-small model **can** perform 3 object ioi task with accuracy 10/10(just test them one by one)! start analyzing at once.
+10. For god's sake I succeeded!!! The question is one token output is too short, and the model always end in learning just output an <|endoftext|>, but I'm not that talented to go through the finetuning repo and change the training logic in the left <10h time, so I pad the completion of the dataset: piece["completion"] = (" "+piece["completion"])*20 (Compare the output_new.json and output.json!) This magic code helped me control the length and now the finetuned gpt2-small model **can** perform 3 object ioi task with accuracy 10/10(just test them one by one)! start analyzing at once. Copied the script 412-....sh to this directory, since there's some problem with git when I try to submit this whole safe-rlhf repo
 
 11. Copy some of the code from Exploratory_Analysis_Demo.ipynb, and partly proved that the heads used for 2 object ioi also plays a role in the 3 object ioi, so it (to some extent) prove that the circuits are actually doing **Transformation** rather than a raw **Formation**. So the next step I think 3 things is quite important (with diminishing importance):
     - Examine the fine-tuned model and find if the 2-object ioi still works there, and whether its heads are still working as before
