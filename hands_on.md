@@ -49,8 +49,48 @@
 14. I believe from this work I sort of discovered that the circuit is evolving in complicated tasks in order to extract more latent knowledge from the model, or to say that the model is actually use its latent knowledge to help circuits evolve? I can't say right now, but it's such a good hypothesis!
 
 ## Going Deep
-1. Correction of 4 steps last night:
+1. Correction of 3 steps last night:
     - Write an evaluation script and evaluate 3-obj ioi ability on each sliced models
     - Examine the fine-tuned model and find if the 2-object ioi still works there, and whether its heads are still working as before
     - Go through the sliced model and see the transformation inside (both 2obj & 3obj situations)
-2. Do it. 
+2. Eval the models and ckpts:
+    - runs the sample.py to get a 50 item test set
+    - write the eval.py and runs it to eval all the ckpt of the model, get:
+```
+ckpt8, win rate 38.0%
+ckpt16, win rate 46.0%
+ckpt24, win rate 52.0%
+ckpt32, win rate 54.0%
+ckpt40, win rate 57.99999999999999%
+ckpt48, win rate 54.0%
+ckpt56, win rate 57.99999999999999%
+ckpt64, win rate 64.0%
+ckpt72, win rate 64.0%
+ckpt80, win rate 66.0%
+ckpt88, win rate 66.0%
+ckpt96, win rate 68.0%
+ckpt104, win rate 70.0%
+ckpt112, win rate 74.0%
+ckpt120, win rate 78.0%
+ckpt128, win rate 84.0%
+ckpt136, win rate 88.0%
+ckpt144, win rate 90.0%
+ckpt152, win rate 90.0%
+ckpt160, win rate 90.0%
+ckpt168, win rate 90.0%
+ckpt176, win rate 92.0%
+ckpt184, win rate 94.0%
+
+need to mention that the ckpt 0 (original gpt2) also has a win rate of 38%
+```
+
+3. It seems that this experiment proved my guess again: when the model is familliar with some tasks (*i.e.* they fully developed a circuit to do it), finetuning then on a similar(but harder, they can't finish alone before) task won't be the situation like the grokking paper. Instead, the win rate just smoothly grow to nearly 100%, so the circuit is transformed smoothly too.
+
+4. So let's go interpreting the circuit. some of the process afterwards is directly shown in explore.ipynb, but I'll try my best to copy everything here.
+
+5. Logit Diff: Compared with the logit difference of the original model, these two plots show that most parts of the process is quite the same, although at layer 10 is displays some difference: its logit difference continues to grow(although decreases at 11 remains the same) instead of beginning to decrease.That suggestst that the difference might happens in layer 10. Let's make a gif graph of the sliced models. See generate_static.py and generate_gif.py, which get the image of layer & stream logit diff.
+6. Get leyer_plots.gif and stream_plots.gif, didn't fit the tick because I'm in a huge lack of time...it's already about 9 hours
+7. From these two graphs, I observe that the layer 10 is the key layer. among all layers, 10 is the most active during finetuning. It fluctuates all along the finetuning, and develop from non-active(generally in original pattern, layer 11 is a layer of decreasing differnence) to active(a growing differnence other than layer 9)
+8. does it means that it is something like a residual learning, *i.e.* layer 10 learns the diff of current circuit in layer 9 and targeted circuit? idk, see the attention for more details
+9. L10H0 and L10H7 calls for my attention. its activation rate has the biggest changing over the time. see the attention details of them.
+10. Gazing at the attention analysis is not enough, since I'm not wise enough to directly get the circuit diff from the complicated graph, decide to move on.
